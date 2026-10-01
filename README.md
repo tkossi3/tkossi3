@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=3b82f6)](https://www.linkedin.com/in/kossivi-tinè-kossi)
 [![Email](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=3b82f6)](mailto:kossivitinek@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=3b82f6)](https://github.com/tkossi3)
-[![Portfolio](https://img.shields.io/badge/TINOSTECHNOLOGY-0d1117?style=for-the-badge&logo=vercel&logoColor=3b82f6)](https://omni-vente.vercel.app)
 
 <br/>
 
@@ -99,7 +98,6 @@
 | Diplôme | Établissement | Période |
 |---|---|---|
 | Licence Pro – Génie Logiciel | École Polytechnique de Lomé (EPL-UL) | 2024 – 2027 |
-| Baccalauréat Deuxième Partie (BAC II) | — | 2024 |
 
 **COMMUNAUTÉ**
 
@@ -163,6 +161,6 @@
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=3b82f6,1d4ed8,0d1117&height=180&section=footer&animation=fadeIn)](https://github.com/tkossi3)
 
-*"Les bases solides d'aujourd'hui sont les succès de demain."* — C2P · Lomé, Togo 🇹🇬
+*"Your futur is building today."* — TinosTechLogistics · Lomé, Togo 🇹🇬
 
 </div>
