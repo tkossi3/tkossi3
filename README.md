@@ -1,6 +1,6 @@
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,3b82f6&height=380&section=header&text=KOSSI%20Kossivi%20Tin%C3%A8&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Builder%20%7C%20&descSize=19&descAlignY=54&descAlign=50)](https://github.com/tkossi3)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,3b82f6&height=380&section=header&text=KOSSI%20Kossivi%20Tin%C3%A8&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Builder%20%7C%20TinosTechLogistics&descSize=19&descAlignY=54&descAlign=50)](https://github.com/tkossi3)
 
 <br/>
 
